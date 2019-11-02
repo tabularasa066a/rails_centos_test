@@ -17,7 +17,7 @@ gem 'faker'
 gem 'will_paginate',           '3.1.6'
 gem 'bootstrap-will_paginate', '1.0.0'
 gem 'carrierwave',             '1.2.2'
-gem 'mini_magick',             '4.7.0'
+gem 'mini_magick',             '4.9.4'
 gem 'therubyracer', platform: :ruby
 
 group :development, :test do
